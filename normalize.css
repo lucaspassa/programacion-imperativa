@@ -191,6 +191,7 @@ sub {
 
 img {
   border: 0;
+  align-content: center;
 }
 
 /**
